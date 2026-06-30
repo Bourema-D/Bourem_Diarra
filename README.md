@@ -75,12 +75,12 @@ This project presents a structured text mining pipeline built in Python to extra
 The workflow focuses on transforming raw textual data into analyzable information through preprocessing, word frequency analysis, and keyword extraction. These techniques provide a foundation for understanding customer concerns and highlight how basic Natural Language Processing (NLP) methods can support data-driven decision-making in business contexts.
 
 **🛠 Key Skills Demonstrated**
-Python programming
-Natural Language Processing (NLP) fundamentals
-Text preprocessing and cleaning
-Word frequency distribution analysis
-Object-Oriented Programming (OOP)
-Data interpretation and analytical thinking
+- Python programming
+- Natural Language Processing (NLP) fundamentals
+- Text preprocessing and cleaning
+- Word frequency distribution analysis
+- Object-Oriented Programming (OOP)
+- Data interpretation and analytical thinking
 
 ---
 ### 🚧 Upcoming Projects
