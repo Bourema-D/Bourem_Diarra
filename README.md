@@ -55,20 +55,28 @@ I am actively developing projects in:
 
 ## Featured Projects
 
-### 📈 [Project 1: GDP Data Cleaning and Analysis] (https://github.com/Bourema-D/Data_Analytics_Learning_Portfolio)
-This project demonstrates a complete data preparation workflow using Python. It involves extracting GDP data from a webpage, cleaning and transforming the dataset, converting GDP values from million USD to billion USD, and exporting the processed data for further analysis.
+### [Building a Financial Data Collection Pipeline with Web Scraping]
 
-**🛠 Key Skills**
-- Python
-- Pandas
-- NumPy
-- Web Scraping
-- Data Cleaning
-- Data Transformation
+Financial data are fundamental to investment analysis, economic forecasting, quantitative finance, and business intelligence. While many organizations rely on Application Programming Interfaces (APIs) to retrieve market information, valuable financial data are also publicly available through structured web pages. Extracting these data requires web scraping techniques capable of navigating HTML documents and transforming unstructured webpage content into structured datasets.
+
+This project presents the development of a complete financial data collection pipeline using Python. The workflow demonstrates how to retrieve HTML content from the web, parse webpage elements using BeautifulSoup, extract historical stock market information from HTML tables, clean and validate the extracted data, and transform them into an analysis-ready pandas DataFrame.
+
+Unlike traditional introductory web scraping tutorials, this project emphasizes reproducibility, clean coding practices, data validation, and exploratory analysis. The resulting dataset is suitable for downstream financial analytics, visualization, and machine learning applications.
 
 ---
 
-### 📊 [Project 2: Text Analysis with Python] (https://github.com/Bourema-D/Data_Analytics_Learning_Portfolio)
+## Technologies Used
+
+- Python
+- Requests
+- BeautifulSoup
+- Pandas
+- NumPy
+- Matplotlib
+- HTML Parsing
+---
+
+### 📊 [Text Analysis with Python] (https://github.com/Bourema-D/Data_Analytics_Learning_Portfolio)
 
 This project presents a structured text mining pipeline built in Python to extract meaningful insights from unstructured customer review data. It simulates a real-world business scenario where large volumes of customer feedback must be processed efficiently to identify patterns, recurring themes, and key terms.
 
