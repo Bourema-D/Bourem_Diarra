@@ -76,7 +76,7 @@ Unlike traditional introductory web scraping tutorials, this project emphasizes 
 - HTML Parsing
 ---
 
-### 📊 Text Analysis with Python (https://github.com/Bourema-D/Data_Analytics_Learning_Portfolio)
+### 📊 Text Analysis with Python (https://github.com/Bourema-D/data_analytics_learning_portfolio.git)
 
 This project presents a structured text mining pipeline built in Python to extract meaningful insights from unstructured customer review data. It simulates a real-world business scenario where large volumes of customer feedback must be processed efficiently to identify patterns, recurring themes, and key terms.
 
