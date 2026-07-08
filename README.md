@@ -55,7 +55,7 @@ I am actively developing projects in:
 
 ## Featured Projects
 
-### [Building a Financial Data Collection Pipeline with Web Scraping] (https://github.com/Bourema-D/amazon-stock-analysis.git)
+### Building a Financial Data Collection Pipeline with Web Scraping (https://github.com/Bourema-D/amazon-stock-analysis.git)
 
 Financial data are fundamental to investment analysis, economic forecasting, quantitative finance, and business intelligence. While many organizations rely on Application Programming Interfaces (APIs) to retrieve market information, valuable financial data are also publicly available through structured web pages. Extracting these data requires web scraping techniques capable of navigating HTML documents and transforming unstructured webpage content into structured datasets.
 
@@ -76,7 +76,7 @@ Unlike traditional introductory web scraping tutorials, this project emphasizes 
 - HTML Parsing
 ---
 
-### 📊 [Text Analysis with Python] (https://github.com/Bourema-D/Data_Analytics_Learning_Portfolio)
+### 📊 Text Analysis with Python (https://github.com/Bourema-D/Data_Analytics_Learning_Portfolio)
 
 This project presents a structured text mining pipeline built in Python to extract meaningful insights from unstructured customer review data. It simulates a real-world business scenario where large volumes of customer feedback must be processed efficiently to identify patterns, recurring themes, and key terms.
 
