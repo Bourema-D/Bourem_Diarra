@@ -55,7 +55,7 @@ I am actively developing projects in:
 
 ## Featured Projects
 
-### [Building a Financial Data Collection Pipeline with Web Scraping]
+### [Building a Financial Data Collection Pipeline with Web Scraping] (https://github.com/Bourema-D/amazon-stock-analysis.git)
 
 Financial data are fundamental to investment analysis, economic forecasting, quantitative finance, and business intelligence. While many organizations rely on Application Programming Interfaces (APIs) to retrieve market information, valuable financial data are also publicly available through structured web pages. Extracting these data requires web scraping techniques capable of navigating HTML documents and transforming unstructured webpage content into structured datasets.
 
