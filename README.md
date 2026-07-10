@@ -65,7 +65,7 @@ Unlike traditional introductory web scraping tutorials, this project emphasizes 
 
 ---
 
-# 💡 Skills Demonstrated
+**💡 Skills Demonstrated**
 
 **Programming**
 
