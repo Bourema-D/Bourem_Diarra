@@ -65,15 +65,68 @@ Unlike traditional introductory web scraping tutorials, this project emphasizes 
 
 ---
 
-## Technologies Used
+## 💡 Skills Demonstrated
+
+# Programming
 
 - Python
-- Requests
+- Functions
+- Modular Programming
+
+# Web Scraping
+
+- HTTP Requests
 - BeautifulSoup
-- Pandas
-- NumPy
-- Matplotlib
 - HTML Parsing
+
+# Data Engineering
+
+- Data Cleaning
+- Data Validation
+- Data Transformation
+- Export Pipelines
+
+# Data Analysis
+
+- Exploratory Data Analysis (EDA)
+- Descriptive Statistics
+- Correlation Analysis
+- Financial Analytics
+
+# Data Visualization
+
+- Matplotlib
+- Time-Series Analysis
+- Statistical Graphics
+- Data Storytelling
+
+# Professional Practice
+
+- Technical Documentation
+- Reproducibility
+- Project Organization
+- Workflow Design
+
+---
+
+### 💻 Data Wrangling and Preprocessing of a Laptop Dataset Using Python
+
+This project demonstrates a complete data wrangling workflow using Python and pandas. A raw laptop dataset is cleaned, transformed, and prepared for analysis by handling missing values, correcting data types, standardizing variables, normalizing features, and creating new variables through feature engineering.
+
+The project showcases the essential data preprocessing techniques commonly used by data analysts before performing exploratory data analysis or building machine learning models.
+
+## Skills Demonstrated
+
+* Data Wrangling
+* Data Cleaning
+* Missing Value Imputation
+* Data Normalization
+* Feature Engineering
+* One-Hot Encoding
+* Data Validation
+
+---
+
 ---
 
 ### 📊 Text Analysis with Python (https://github.com/Bourema-D/data_analytics_learning_portfolio.git)
