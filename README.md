@@ -67,40 +67,40 @@ Unlike traditional introductory web scraping tutorials, this project emphasizes 
 
 # 💡 Skills Demonstrated
 
-## Programming
+**Programming**
 
 - Python
 - Functions
 - Modular Programming
 
-## Web Scraping
+**Web Scraping**
 
 - HTTP Requests
 - BeautifulSoup
 - HTML Parsing
 
-## Data Engineering
+**Data Engineering**
 
 - Data Cleaning
 - Data Validation
 - Data Transformation
 - Export Pipelines
 
-## Data Analysis
+**Data Analysis**
 
 - Exploratory Data Analysis (EDA)
 - Descriptive Statistics
 - Correlation Analysis
 - Financial Analytics
 
-## Data Visualization
+**Data Visualization**
 
 - Matplotlib
 - Time-Series Analysis
 - Statistical Graphics
 - Data Storytelling
 
-## Professional Practice
+**Professional Practice**
 
 - Technical Documentation
 - Reproducibility
@@ -115,7 +115,7 @@ This project demonstrates a complete data wrangling workflow using Python and pa
 
 The project showcases the essential data preprocessing techniques commonly used by data analysts before performing exploratory data analysis or building machine learning models.
 
-## Skills Demonstrated
+**Skills Demonstrated**
 
 * Data Wrangling
 * Data Cleaning
