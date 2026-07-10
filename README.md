@@ -115,7 +115,7 @@ This project demonstrates a complete data wrangling workflow using Python and pa
 
 The project showcases the essential data preprocessing techniques commonly used by data analysts before performing exploratory data analysis or building machine learning models.
 
-**Skills Demonstrated**
+**🛠️ Skills Demonstrated**
 
 * Data Wrangling
 * Data Cleaning
