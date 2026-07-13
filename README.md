@@ -109,6 +109,26 @@ Unlike traditional introductory web scraping tutorials, this project emphasizes 
 
 ---
 
+### 🚗 Automobile Price Prediction: Exploratory Data Analysis (https://github.com/Bourema-D/automobile_price_analysis.git)
+
+This project explores the factors that influence automobile prices using Python and statistical analysis. Through data cleaning, exploratory data analysis (EDA), visualization, and correlation analysis, the project identifies the vehicle characteristics that are most strongly associated with price.
+
+The analysis demonstrates a complete exploratory data analysis workflow, transforming raw data into meaningful insights that can support predictive modeling.
+
+**💡 Skills Demonstrated**
+
+* Python (Pandas, NumPy)
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* Data Visualization (Matplotlib & Seaborn)
+* Pearson Correlation Analysis
+* Statistical Hypothesis Testing
+* Feature Selection
+* Data Storytelling
+
+---
+
+
 ### 💻 Data Wrangling and Preprocessing of a Laptop Dataset Using Python (https://github.com/Bourema-D/Python_data_wrangling.git)
 
 This project demonstrates a complete data wrangling workflow using Python and pandas. A raw laptop dataset is cleaned, transformed, and prepared for analysis by handling missing values, correcting data types, standardizing variables, normalizing features, and creating new variables through feature engineering.
