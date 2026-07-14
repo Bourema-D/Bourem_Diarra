@@ -55,7 +55,7 @@ I am actively developing projects in:
 
 ## Featured Projects
 
-### Building a Financial Data Collection Pipeline with Web Scraping (https://github.com/Bourema-D/amazon-stock-analysis.git)
+### [Building a Financial Data Collection Pipeline with Web Scraping](https://github.com/Bourema-D/amazon-stock-analysis.git)
 
 Financial data are fundamental to investment analysis, economic forecasting, quantitative finance, and business intelligence. While many organizations rely on Application Programming Interfaces (APIs) to retrieve market information, valuable financial data are also publicly available through structured web pages. Extracting these data requires web scraping techniques capable of navigating HTML documents and transforming unstructured webpage content into structured datasets.
 
@@ -109,7 +109,7 @@ Unlike traditional introductory web scraping tutorials, this project emphasizes 
 
 ---
 
-### 🚗 Automobile Price Prediction: Exploratory Data Analysis (https://github.com/Bourema-D/automobile_price_analysis.git)
+### 🚗 [Automobile Price Prediction: Exploratory Data Analysis](https://github.com/Bourema-D/automobile_price_analysis.git)
 
 This project explores the factors that influence automobile prices using Python and statistical analysis. Through exploratory data analysis (EDA), visualization, and correlation analysis, the project identifies the vehicle characteristics that are most strongly associated with price.
 
@@ -129,7 +129,7 @@ The analysis demonstrates a complete exploratory data analysis workflow, transfo
 ---
 
 
-### 💻 Data Wrangling and Preprocessing of a Laptop Dataset Using Python (https://github.com/Bourema-D/Python_data_wrangling.git)
+### 💻 [Data Wrangling and Preprocessing of a Laptop Dataset Using Python](https://github.com/Bourema-D/Python_data_wrangling.git)
 
 This project demonstrates a complete data wrangling workflow using Python and pandas. A raw laptop dataset is cleaned, transformed, and prepared for analysis by handling missing values, correcting data types, standardizing variables, normalizing features, and creating new variables through feature engineering.
 
@@ -147,7 +147,7 @@ The project showcases the essential data preprocessing techniques commonly used 
 
 ---
 
-### 📊 Text Analysis with Python (https://github.com/Bourema-D/data_analytics_learning_portfolio.git)
+### 📊 [Text Analysis with Python](https://github.com/Bourema-D/data_analytics_learning_portfolio.git)
 
 This project presents a structured text mining pipeline built in Python to extract meaningful insights from unstructured customer review data. It simulates a real-world business scenario where large volumes of customer feedback must be processed efficiently to identify patterns, recurring themes, and key terms.
 
@@ -182,7 +182,7 @@ https://www.linkedin.com/in/bourema-diarra-8623b2220/
 
 ## Curriculum Vitae
 
-📄 **[Download My CV](https://github.com/Bourema-D/Bourem_Diarra/blob/main/Resume__Bourema_Diarra.pdf)**
+📄 **[Download My CV](https://github.com/Bourema-D/Bourem_Diarra/blob/main/Resume_Diarra_Bourema.pdf)**
 
 ---
 
