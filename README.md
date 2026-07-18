@@ -129,6 +129,27 @@ The analysis demonstrates a complete exploratory data analysis workflow, transfo
 ---
 
 
+### 🚗 [Automobile Price Prediction Using Regression Models](https://github.com/Bourema-D/automobile_price_prediction_machine_learning.git)
+
+This project develops and evaluates machine learning regression models to predict automobile prices based on vehicle characteristics. The objective is to identify key factors influencing vehicle prices and determine which regression approach provides the most accurate predictions.
+
+The project follows an end-to-end machine learning workflow, including exploratory data analysis, feature selection, model development, evaluation, and business interpretation.
+
+**🛠️ Skills Demonstrated**
+
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Data Cleaning & Feature Preparation
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis & Correlation Testing
+- Machine Learning Regression Models
+- Linear & Polynomial Regression
+- Model Evaluation and Performance Comparison
+- Data Visualization
+- Business Insight Generation
+- GitHub Documentation & Version Control
+
+---
+
 ### 💻 [Data Wrangling and Preprocessing of a Laptop Dataset Using Python](https://github.com/Bourema-D/Python_data_wrangling.git)
 
 This project demonstrates a complete data wrangling workflow using Python and pandas. A raw laptop dataset is cleaned, transformed, and prepared for analysis by handling missing values, correcting data types, standardizing variables, normalizing features, and creating new variables through feature engineering.
