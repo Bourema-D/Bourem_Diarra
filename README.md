@@ -138,7 +138,7 @@ The project follows an end-to-end machine learning workflow, including explorato
 **🛠️ Skills Demonstrated**
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Data Cleaning & Feature Preparation
+- Feature Preparation
 - Exploratory Data Analysis (EDA)
 - Statistical Analysis & Correlation Testing
 - Machine Learning Regression Models
