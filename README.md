@@ -203,7 +203,7 @@ https://www.linkedin.com/in/bourema-diarra-8623b2220/
 
 ## Curriculum Vitae
 
-📄 **[Download My CV](https://github.com/Bourema-D/Bourem_Diarra/blob/main/Resume_Diarra_Bourema.pdf)**
+📄 **[Download My CV](Resume_Diarra_Bourema.pdf)**
 
 ---
 
