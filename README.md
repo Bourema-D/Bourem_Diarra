@@ -8,6 +8,20 @@ Alongside my doctoral research, I am expanding my expertise in Python, SQL, data
 
 ---
 
+**Key skills demonstrated:**  
+- Exploratory Data Analysis (EDA)
+- Feature Selection
+- Linear Regression
+- Polynomial Regression
+- Model Evaluation
+- Cross-Validation
+- Machine Learning Pipelines
+- Hyperparameter Refinement
+- Model Comparison
+- Data Visualisation with Python
+
+---
+
 ## Technical Skills
 
 ### Data Analysis & Statistics
