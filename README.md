@@ -84,14 +84,6 @@ The workflow focuses on transforming raw textual data into analyzable informatio
 - Data interpretation and analytical thinking
 
 ---
-### 🚧 Upcoming Projects
-
-- Environmental Kuznets Curve (EKC) Bibliometric Analysis
-- Interactive Data Dashboards (Power BI)
-- SQL Analytics Projects
-- Fuelwood Consumption Analysis in Mali
-
----
 
 ### 💻 [Data Wrangling and Preprocessing of a Laptop Dataset Using Python](https://github.com/Bourema-D/Python_data_wrangling.git)
 
@@ -205,7 +197,7 @@ The project follows an end-to-end machine learning workflow, including explorato
 
 ---
 
-### 🚗 From Prediction to Performance
+### 🚗 [From Prediction to Performance](https://github.com/Bourema-D/from_prediction_to_performance.git)
 
 **Evaluating and Refining Machine Learning Models for Automobile Price Prediction**
 
@@ -214,6 +206,29 @@ How accurately can we predict automobile prices—and what happens when we move 
 **From Prediction to Performance** explores the development, evaluation, and refinement of machine learning models for predicting automobile prices from key vehicle characteristics, including engine size, horsepower, curb weight, highway fuel efficiency, length, and width.
 
 Rather than simply building a predictive model, this project investigates how model complexity affects predictive performance and generalisation. The analysis progresses from a baseline Linear Regression model to Polynomial Regression and pipeline-based model refinement, with each approach evaluated on unseen test data.
+
+**Key skills demonstrated:**  
+- Exploratory Data Analysis (EDA)
+- Feature Selection
+- Linear Regression
+- Polynomial Regression
+- Model Evaluation
+- Cross-Validation
+- Machine Learning Pipelines
+- Hyperparameter Refinement
+- Model Comparison
+- Data Visualisation with Python
+
+---
+
+### 🚧 Upcoming Projects
+
+- Environmental Kuznets Curve (EKC) Bibliometric Analysis
+- Interactive Data Dashboards (Power BI)
+- SQL Analytics Projects
+- Fuelwood Consumption Analysis in Mali
+
+---
 
 ## Contact
 
