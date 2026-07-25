@@ -55,6 +55,48 @@ I am actively developing projects in:
 
 ## Featured Projects
 
+### 📊 [Text Analysis with Python](https://github.com/Bourema-D/data_analytics_learning_portfolio.git)
+
+This project presents a structured text mining pipeline built in Python to extract meaningful insights from unstructured customer review data. It simulates a real-world business scenario where large volumes of customer feedback must be processed efficiently to identify patterns, recurring themes, and key terms.
+
+The workflow focuses on transforming raw textual data into analyzable information through preprocessing, word frequency analysis, and keyword extraction. These techniques provide a foundation for understanding customer concerns and highlight how basic Natural Language Processing (NLP) methods can support data-driven decision-making in business contexts.
+
+**🛠 Key Skills Demonstrated**
+- Python programming
+- Natural Language Processing (NLP) fundamentals
+- Text preprocessing and cleaning
+- Word frequency distribution analysis
+- Object-Oriented Programming (OOP)
+- Data interpretation and analytical thinking
+
+---
+### 🚧 Upcoming Projects
+
+- Environmental Kuznets Curve (EKC) Bibliometric Analysis
+- Interactive Data Dashboards (Power BI)
+- SQL Analytics Projects
+- Fuelwood Consumption Analysis in Mali
+
+---
+
+### 💻 [Data Wrangling and Preprocessing of a Laptop Dataset Using Python](https://github.com/Bourema-D/Python_data_wrangling.git)
+
+This project demonstrates a complete data wrangling workflow using Python and pandas. A raw laptop dataset is cleaned, transformed, and prepared for analysis by handling missing values, correcting data types, standardizing variables, normalizing features, and creating new variables through feature engineering.
+
+The project showcases the essential data preprocessing techniques commonly used by data analysts before performing exploratory data analysis or building machine learning models.
+
+**🛠️ Skills Demonstrated**
+
+* Data Wrangling
+* Data Cleaning
+* Missing Value Imputation
+* Data Normalization
+* Feature Engineering
+* One-Hot Encoding
+* Data Validation
+
+---
+
 ### [Building a Financial Data Collection Pipeline with Web Scraping](https://github.com/Bourema-D/amazon-stock-analysis.git)
 
 Financial data are fundamental to investment analysis, economic forecasting, quantitative finance, and business intelligence. While many organizations rely on Application Programming Interfaces (APIs) to retrieve market information, valuable financial data are also publicly available through structured web pages. Extracting these data requires web scraping techniques capable of navigating HTML documents and transforming unstructured webpage content into structured datasets.
@@ -128,7 +170,6 @@ The analysis demonstrates a complete exploratory data analysis workflow, transfo
 
 ---
 
-
 ### 🚗 [Automobile Price Prediction Using Regression Models](https://github.com/Bourema-D/automobile_price_prediction_machine_learning.git)
 
 This project develops and evaluates machine learning regression models to predict automobile prices based on vehicle characteristics. The objective is to identify key factors influencing vehicle prices and determine which regression approach provides the most accurate predictions.
@@ -150,47 +191,15 @@ The project follows an end-to-end machine learning workflow, including explorato
 
 ---
 
-### 💻 [Data Wrangling and Preprocessing of a Laptop Dataset Using Python](https://github.com/Bourema-D/Python_data_wrangling.git)
+### 🚗 From Prediction to Performance
 
-This project demonstrates a complete data wrangling workflow using Python and pandas. A raw laptop dataset is cleaned, transformed, and prepared for analysis by handling missing values, correcting data types, standardizing variables, normalizing features, and creating new variables through feature engineering.
+**Evaluating and Refining Machine Learning Models for Automobile Price Prediction**
 
-The project showcases the essential data preprocessing techniques commonly used by data analysts before performing exploratory data analysis or building machine learning models.
+How accurately can we predict automobile prices—and what happens when we move beyond a simple prediction model?
 
-**🛠️ Skills Demonstrated**
+**From Prediction to Performance** explores the development, evaluation, and refinement of machine learning models for predicting automobile prices from key vehicle characteristics, including engine size, horsepower, curb weight, highway fuel efficiency, length, and width.
 
-* Data Wrangling
-* Data Cleaning
-* Missing Value Imputation
-* Data Normalization
-* Feature Engineering
-* One-Hot Encoding
-* Data Validation
-
----
-
-### 📊 [Text Analysis with Python](https://github.com/Bourema-D/data_analytics_learning_portfolio.git)
-
-This project presents a structured text mining pipeline built in Python to extract meaningful insights from unstructured customer review data. It simulates a real-world business scenario where large volumes of customer feedback must be processed efficiently to identify patterns, recurring themes, and key terms.
-
-The workflow focuses on transforming raw textual data into analyzable information through preprocessing, word frequency analysis, and keyword extraction. These techniques provide a foundation for understanding customer concerns and highlight how basic Natural Language Processing (NLP) methods can support data-driven decision-making in business contexts.
-
-**🛠 Key Skills Demonstrated**
-- Python programming
-- Natural Language Processing (NLP) fundamentals
-- Text preprocessing and cleaning
-- Word frequency distribution analysis
-- Object-Oriented Programming (OOP)
-- Data interpretation and analytical thinking
-
----
-### 🚧 Upcoming Projects
-
-- Environmental Kuznets Curve (EKC) Bibliometric Analysis
-- Interactive Data Dashboards (Power BI)
-- SQL Analytics Projects
-- Fuelwood Consumption Analysis in Mali
-
----
+Rather than simply building a predictive model, this project investigates how model complexity affects predictive performance and generalisation. The analysis progresses from a baseline Linear Regression model to Polynomial Regression and pipeline-based model refinement, with each approach evaluated on unseen test data.
 
 ## Contact
 
