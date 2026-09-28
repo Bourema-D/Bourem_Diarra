@@ -1,10 +1,8 @@
 # Hi, I'm Bourema Diarra 👋
 
-PhD Researcher in Environmental Science at ELTE Eötvös Loránd University, Hungary.
+I am a PhD researcher in Environmental Science and an aspiring Data Analyst with a strong interest in using data to understand real-world problems and support better decisions.
 
-I specialize in environmental research, quantitative analysis, field data collection, and evidence-based decision-making. My work focuses on the relationships between natural resource use, environmental change, and sustainable development.
-
-Alongside my doctoral research, I am expanding my expertise in Python, SQL, data visualization, and business intelligence tools to build practical solutions through data analytics.
+I enjoy working with data from the messy first steps of cleaning and organising it to finding patterns, building clear visualisations, and communicating what the numbers actually mean. I work with Python, SQL, Power BI, Excel, R, and GIS, combining the analytical skills developed through my research with hands-on data projects. For me, the goal is simple: turn complex data into insights that people can understand and use.
 
 ---
 
